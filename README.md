@@ -5,11 +5,6 @@
     </a>
 </p>
 
-----
-
-
-
-
 ## Features
 
 ![](https://i.imgur.com/hBTlbWF.png)
@@ -18,8 +13,8 @@ The plugin displays the file name of the binary in the current view as well as t
 
 ## Requirements
 
-The plugin uses [`pypresence==4.0.0`](https://pypi.org/project/pypresence/) for the Discord integration. Make sure, that the Python interpreter used by 
-Binary Ninja has `pypresence` installed.
+The plugin uses [`pypresence==4.2.0`](https://pypi.org/project/pypresence/) for the Discord integration. Make sure, that
+the Python interpreter used by Binary Ninja has `pypresence` installed.
 
 ## Installation
 
